@@ -1,59 +1,110 @@
 Maxes and Mins for simple Voltage Readings:
 
 	Base Servo:
-		Max: 494
-		Min: 247
+		Max: 483
+		Min: 199
 
 	Right Servo:
-		Max: 485
-		Min: 297
+		Max: 381
+		Min: 146
 
 	Left Servo:
 		Max: 440
 		Min: 213
 
 	Claw Servo:
-		Max: 230
-		Min: 188
+		Mid (flat): 453
+
+		Full Right Extension:
+			Max: 470
+			Min: 325
+
+		Mid Right Extension:
+			Max: 480
+			Min: 315
+
+		Min Right Extension
+			Max: 480
+			Min: 388
 
 Maxes and Mins for Corresponding Angle Readings:
 
 	Base Servo:
 		Max: 180
+		Mid(centre): 111
 		Min: 64
 
 	Right Servo:
 		Max: 180
-		Min: 90
+		Mid(vertical): 112
+		Min: 71
 
 	Left Servo:
-		Max: 160
-		Min: 51
+		Mid (Flat): 167 
+		Max Right Extension:
+			Max: 173
+			Min: 105
+
+		Mid Right Extension:
+			Max: 180
+			Min: 100
+
+		Min Right Extension:
+			Max: 180		
+			Min: 135
 
 Starting Angles, in Degrees:
 
 	Base Servo:
-		131
+		111
 
 	Right Servo:
-		120
+		61
 
 	Left Servo:
-		120
+		167
 
 	Claw Servo:
 		???
 
+Microsecond Angle Readings:
+
+	Base Servo:
+		Max: 2375
+		Mid: 1680
+		Min: 1200
+
+	Right Servo:
+		Max: 2385
+		Mid: 1700
+		Min: 1280
+
+	Left Servo: 
+
+		Mid: 2265
+
+		Right Max:
+			Max: 2315
+			Min: 1625
+
+		Right Mid:
+			Max: 2385
+			Min: 1575
+
+		Right Min:
+			Max: 2385
+			Min: 1930
+
 Starting Angles, in Voltage Readings:
 
 	Base Servo:
-		392
+		339
 
 	Right Servo:
-		361
+	 	236
 
 	Left Servo:
-		358
+		455
 
 	Claw Servo:
 		???
